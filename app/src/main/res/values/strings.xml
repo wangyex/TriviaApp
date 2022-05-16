@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Trivia</string>
+    <string name="title_text">Trivia</string>
+    <string name="out_of_question_text">Question: 44/225</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="nxt_button">Next</string>
 </resources>
