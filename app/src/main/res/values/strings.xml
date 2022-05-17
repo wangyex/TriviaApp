@@ -8,4 +8,7 @@
     <string name="question_text_plchold">This is where the questions are</string>
     <string name="correct_answer">Correct!</string>
     <string name="incorrect">Incorrect</string>
+    <string name="random_but_text">"Random "</string>
+    <string name="reset_button_text">RESET</string>
+    <string name="current_score">Score_placeholder</string>
 </resources>
