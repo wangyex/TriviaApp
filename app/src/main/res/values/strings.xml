@@ -6,4 +6,6 @@
     <string name="false_button">False</string>
     <string name="nxt_button">Next</string>
     <string name="question_text_plchold">This is where the questions are</string>
+    <string name="correct_answer">Correct!</string>
+    <string name="incorrect">Incorrect</string>
 </resources>
